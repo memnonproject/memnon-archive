@@ -1,4 +1,12 @@
 # memnon-archive
-Archival materials dating back to the research/musings begun in the 1980's. Sketches, photos, notebook entries, spreadsheets, historical references, videos, and experimental data. Not well organized, but "compost" for future work
+Archival materials dating back to research/musings and related collaborative artistic and technical work begun in the 1980's. The collection includes publications, notebook entries, engineering sketches, photographs, videos, spreadsheets, experimental data, historical references, and unfinished ideas. The materials vary considerably in age, completeness, and organization. Some are preserved primarily as source material—or “compost”—for future research and design.
 
-This memnon-archive repository is part of the Memnon Project and connected to its companion repositories for 1) memnon-challenge (start here) and 2) memnon-futures
+Related repositories
+
+Memnon Challenge — the public introduction and invitation to explore or extend the work
+
+Memnon Futures — new concepts, AI-assisted research, compositional ideas, and speculative future developments
+
+The archive is a work in progress. Materials may be reorganized and described more fully as the collection develops.
+
+
