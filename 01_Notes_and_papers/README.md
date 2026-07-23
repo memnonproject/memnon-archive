@@ -1,1 +1,1 @@
-some materials from presentations and publications with American Solar Energy Society, etc.
+various textual materials - both raw notes and excerpts from published presentations and publications with American Solar Energy Society, other magazines, high school and college curriculum, etc. Some of it well edited, some in rough note form.
